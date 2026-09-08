@@ -1,0 +1,18 @@
+{
+  "name": "airesume",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Resume Builder — pick a template, edit or AI-generate, pay, export.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "razorpay": "2.9.4"
+  }
+}
